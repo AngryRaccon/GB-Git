@@ -1,1 +1,2 @@
-console.log(`welcome, ${name}`)
+console.log(`welcome, ${name}`);
+console.log(new Date());
